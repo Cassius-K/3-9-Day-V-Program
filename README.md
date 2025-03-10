@@ -2,6 +2,7 @@
 This program is made and maintained by me and ma boi (Ivan)
 
 3 in japanese can be pronounced as mi
+
 9 in japanese can be pronounced as kyu
 
 ## This is the Miku Viral Infection!!
